@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.task1;
 
 public class FillArrayManually {
     public static void main(String[] args) {

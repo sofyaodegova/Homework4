@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.task3;
 
 public class ArrayWithNumber {
     public static void main(String[] args) {
