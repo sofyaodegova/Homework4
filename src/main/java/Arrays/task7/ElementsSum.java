@@ -6,7 +6,6 @@ public class ElementsSum {
 
     public static void main(String[] args) {
         System.out.println("Сумма равна: " + randomArray(10, 0, 0));
-        ;
     }
 
     public static int randomArray(int n, int i, int sum) {
