@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class AscendingSort {
     public static void main(String[] args) {
-        System.out.println("Is array sorted? " + isSorted());
+        System.out.println("Is array sorted by ascending? " + isSorted());
     }
 
     public static boolean isSorted() {
