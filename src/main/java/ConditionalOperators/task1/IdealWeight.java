@@ -1,4 +1,4 @@
-package ConditionalOperators;
+package ConditionalOperators.task1;
 
 public class IdealWeight {
     public static void main(String[] args) {
