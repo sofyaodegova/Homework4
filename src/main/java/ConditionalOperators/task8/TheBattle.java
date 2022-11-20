@@ -1,4 +1,4 @@
-package ConditionalOperators.task7;
+package ConditionalOperators.task8;
 
 public class TheBattle {
     public static void main(String[] args) {
